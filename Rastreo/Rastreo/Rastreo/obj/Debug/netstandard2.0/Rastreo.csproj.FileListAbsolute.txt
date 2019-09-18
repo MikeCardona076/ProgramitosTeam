@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\bin\Debug\netstandard2.0\Rastreo.deps.json
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\bin\Debug\netstandard2.0\Rastreo.dll
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\bin\Debug\netstandard2.0\Rastreo.pdb
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\Rastreo.csprojAssemblyReference.cache
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\Rastreo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\Rastreo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\Rastreo.AssemblyInfo.cs
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\Rastreo.dll
+C:\Users\PC\Documents\TeamProgramitos\Rastreo\Rastreo\Rastreo\obj\Debug\netstandard2.0\Rastreo.pdb
